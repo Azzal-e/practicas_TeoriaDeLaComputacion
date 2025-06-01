@@ -1,0 +1,13 @@
+acum:= 5
+acum
+acum:= 3*2
+acum
+acum+4
+acum:= 8 + acum
+acum:= acum / acum
+acum
+acum:= acum - acum 
+acum
+acum:= acum - 5 * 8 + 5
+acum / 5
+(acum + 5) / 5

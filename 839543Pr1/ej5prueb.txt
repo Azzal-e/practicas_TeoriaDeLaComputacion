@@ -1,0 +1,7 @@
+
+  Esta linea empieza y termina   con dos espacios en blanco  
+
+  
+para      ser formateado que termina sin ningún espacio
+         
+ linea que             empieza y termina con un espacio 

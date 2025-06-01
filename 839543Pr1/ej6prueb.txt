@@ -1,0 +1,8 @@
+
+Comienzo, con consonante y num23 
+    
+  Si consonante, linea con signo;
+inicio con vocal y no signo
+  hay 4, numeros: 2 3 numeros23.
+ 
+es una linea sin digitos consonante ni signo solo caracteres

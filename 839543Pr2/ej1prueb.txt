@@ -1,0 +1,23 @@
+  // Athanasios Usero, NIP
+%{
+#include < math.h>
+//comentario;;;;
+int a = 0;
+char c;
+%}
+
+%% //otro comentario
+t+ {printf ("hola ;"); a++;}
+ggg   {}
+"aabb"[A-Z]+ { a++; if (a ==0) {a ++;}
+        // otro comentario;;;
+return a;}
+jjj {if(a==0){a++; if(true){return a;}
+    // Comentario dentro de bloque de código 
+}}
+f  {return (";" == c);} 
+  // comentario en sección de reglas
+%%
+int main () { //y otro comentario
+   yylex ();
+}
